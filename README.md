@@ -1,0 +1,2 @@
+# MyBusRouteService_Dropwizard
+Testproject containing basic Dropwizard-Features

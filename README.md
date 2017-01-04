@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyBusRouteService
 
 How to start the MyBusRouteService application
@@ -11,3 +12,7 @@ Health Check
 ---
 
 To see your applications health enter url `http://localhost:8081/healthcheck`
+=======
+# MyBusRouteService_Dropwizard
+Testproject containing basic Dropwizard-Features
+>>>>>>> branch 'master' of https://github.com/Uwe-Fuchs/MyBusRouteService_Dropwizard.git
